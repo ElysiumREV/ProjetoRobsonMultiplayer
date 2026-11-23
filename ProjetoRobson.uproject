@@ -13,15 +13,15 @@
 		},
 		{
 			"Name": "GameplayStateTree",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "Landmass",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "BlueprintFileUtils",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "BlueprintMaterialTextureNodes",
@@ -29,11 +29,11 @@
 		},
 		{
 			"Name": "Water",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "ProceduralVegetationEditor",
-			"Enabled": true
+			"Enabled": false
 		}
 	]
 }
